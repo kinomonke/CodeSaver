@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<h3>Report any issues in the <a href="https://github.com/kinomonke/TimeTab/issues">Issues</a> section.</h3>
+<h3>Report any issues in the <a href="https://github.com/kinomonke/CodeSaver/issues">Issues</a> section.</h3>
 
 </div>
 
