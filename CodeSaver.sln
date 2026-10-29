@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37806.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSaver", "CodeViewer\CodeSaver.csproj", "{F70E2746-B9A0-4FB1-862E-7141CE34F23D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSaverCI", "CodeViewerCI\CodeSaverCI.csproj", "{5726B0DD-A1DE-1D27-7778-5B4085F54A46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F70E2746-B9A0-4FB1-862E-7141CE34F23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70E2746-B9A0-4FB1-862E-7141CE34F23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70E2746-B9A0-4FB1-862E-7141CE34F23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70E2746-B9A0-4FB1-862E-7141CE34F23D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5726B0DD-A1DE-1D27-7778-5B4085F54A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5726B0DD-A1DE-1D27-7778-5B4085F54A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5726B0DD-A1DE-1D27-7778-5B4085F54A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5726B0DD-A1DE-1D27-7778-5B4085F54A46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E6019A0-E0BF-49CC-B1B2-843A1D4011AC}
+	EndGlobalSection
+EndGlobal
