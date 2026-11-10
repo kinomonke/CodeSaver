@@ -7,8 +7,8 @@
 <img src="https://github.com/user-attachments/assets/e084b368-f0c0-45e1-b681-fdf7da79f91e" width="42%" alt="Default Computer">
 <img src="https://github.com/user-attachments/assets/5d95f524-9537-4248-908e-a7a6c966e2e1" width="42%" alt="ComputerInterface">
 
-<img alt="GitHub Downloads (specific asset, all releases)" src="https://img.shields.io/github/downloads/kinomonke/CodeSaver/CodeSaver.dll">
-<img alt="GitHub Downloads (specific asset, all releases)" src="https://img.shields.io/github/downloads/kinomonke/CodeSaver/CodeSaverCI.dll">
+<img alt="GitHub Downloads (specific asset, all releases)" src="https://img.shields.io/github/downloads/kinomonke/CodeSaver/CodeViewer.dll">
+<img alt="GitHub Downloads (specific asset, all releases)" src="https://img.shields.io/github/downloads/kinomonke/CodeSaver/CodeViewerCI.dll">
 
 <h3>This mod supports:</h3>
 
